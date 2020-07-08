@@ -1,5 +1,2 @@
 # Multimedia
 Multimedia and Practice
- 
-
-
